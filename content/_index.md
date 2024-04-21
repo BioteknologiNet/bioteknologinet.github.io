@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Bioteknologi.net merupakan inisiatif program pengabdian pada masyarakat yang didirikan dengan tujuan utama untuk memperluas akses pendidikan, khususnya dalam bidang bioteknologi.
   
   - block: collection
     content:
